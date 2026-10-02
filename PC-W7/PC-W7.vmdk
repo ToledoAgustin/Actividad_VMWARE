@@ -1,0 +1,25 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "PC-W7-s001.vmdk"
+RW 8323072 SPARSE "PC-W7-s002.vmdk"
+RW 8323072 SPARSE "PC-W7-s003.vmdk"
+RW 8323072 SPARSE "PC-W7-s004.vmdk"
+RW 8323072 SPARSE "PC-W7-s005.vmdk"
+RW 327680 SPARSE "PC-W7-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "b4f21c0e27143d5cf90d9bcffffffffe"
+ddb.uuid = "60 00 C2 90 21 de f9 12-27 cb db 78 29 f5 3a 72"
+ddb.virtualHWVersion = "22"

@@ -1,0 +1,25 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Windows XP.-s001.vmdk"
+RW 8323072 SPARSE "Windows XP.-s002.vmdk"
+RW 8323072 SPARSE "Windows XP.-s003.vmdk"
+RW 8323072 SPARSE "Windows XP.-s004.vmdk"
+RW 8323072 SPARSE "Windows XP.-s005.vmdk"
+RW 327680 SPARSE "Windows XP.-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "ide"
+ddb.geometry.cylinders = "16383"
+ddb.geometry.heads = "16"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "b504149660d7c762d5a49a27fffffffe"
+ddb.uuid = "60 00 C2 92 47 5b a7 5d-9d 44 36 a8 a3 80 8d 1e"
+ddb.virtualHWVersion = "22"

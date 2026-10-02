@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 c8 d7 3d 27 64 05 76-cc 40 93 c7 33 79 a3 38</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">PC-W10.vmx</vmxPathName></VM></Foundry>
